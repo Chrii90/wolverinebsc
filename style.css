@@ -148,9 +148,9 @@ a.single-about,
 =====================*/
 
 .logo-area img {
-  width: 150px;
-  margin-top: 0px;
-  height: 150px;
+  width: 100px;
+  margin-top: 7px;
+  height: 30px;
 }
 
 .header-area {
@@ -173,7 +173,7 @@ a.single-about,
 }
 
 .main-menu li.active a{
-  color: #D2AC15;
+  color: #FB9A8C;
 }
 
 .main-menu li a {
@@ -380,8 +380,8 @@ ico area css
 }
 
 .ico-heading h1 a {
-	color: #C79405;
-	text-transform: uppercase;
+  color: #f9748f;
+  text-transform: uppercase;
 }
 
 .ico-heading h1 a:hover {
@@ -394,9 +394,9 @@ ico area css
 }
 
 .single-ico a {
-	color: #FFCC00;
-	padding-right: 10px;
-	font-size: 18px;
+  color: #f9748f;
+  padding-right: 10px;
+  font-size: 18px;
 }
 .single-ico h1 {
   font-size: 36px;
@@ -1067,7 +1067,7 @@ footer area css
 ======================*/
 
 .single-footer .logo-area img {
-  width: 200px;
+  width: 90px;
 }
 
 .single-footer li a {
@@ -1723,7 +1723,7 @@ a.gradient-btn {
   color: #fff;
   text-transform: uppercase;
   font-weight: 700;
-  background: -webkit-linear-gradient(right,#F3BF38,#FFCC00,#C79405);
+  background: -webkit-linear-gradient(right,#fe998b,#fa768d,#f78ca0);
   padding: 10px 20px;
   border-radius: 5px;
   position: relative;
@@ -1737,7 +1737,7 @@ a.gradient-btn:after {
   left: 0;
   top: 0;
   content: "";
-  background: -webkit-linear-gradient(right,#072487,#FFCC00,#C79405);
+  background: -webkit-linear-gradient(right,#072487,#fa768d,#fe998b);
   height: 100%;
   width: 100%;
   z-index: -1;
